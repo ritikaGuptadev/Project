@@ -1,4 +1,4 @@
 # Project
 MERN Project
 <br>
-Author - Ritika Gupta
+Author - Ritika Gupta(Dev)
